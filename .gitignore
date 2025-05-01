@@ -13,3 +13,6 @@ testes/libs/all
 
 temp
 lua
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
